@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Jay Amlani
+- I am interested in VOIP Technologies, Operating System, Capture the Flag events, and Security protocols.
